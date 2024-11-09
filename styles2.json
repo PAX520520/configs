@@ -1,0 +1,72 @@
+[
+  {
+    "group": "Favorite",
+    "styleList": [
+      {
+        "id": 1,
+        "name": "Favorite1",
+        "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Favorite_1.png"
+      },
+      {
+        "id": 2,
+        "name": "Favorite2",
+        "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Favorite_2.png"
+      },
+      {
+        "id": 3,
+        "name": "Favorite3",
+        "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Favorite_3.png"
+      },
+      {
+        "id": 4,
+        "name": "Favorite4",
+        "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Favorite_4.png"
+      },
+      {
+        "id": 5,
+        "name": "Favorite5",
+        "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Favorite_5.png"
+      }
+    ]
+  },
+  {
+    "group": "LinkedIn",
+    "styleList": [
+      {
+        "id": 1,
+        "name": "LinkedIn1",
+        "url": "https://raw.githubusercontent.com/PAX520520/styles/main/LinkedIn_1.png"
+      },
+      {
+        "id": 2,
+        "name": "LinkedIn2",
+        "url": "https://raw.githubusercontent.com/PAX520520/styles/main/LinkedIn_2.png"
+      },
+      {
+        "id": 3,
+        "name": "LinkedIn3",
+        "url": "https://raw.githubusercontent.com/PAX520520/styles/main/LinkedIn_3.png"
+      },
+      {
+        "id": 4,
+        "name": "LinkedIn4",
+        "url": "https://raw.githubusercontent.com/PAX520520/styles/main/LinkedIn_4.png"
+      },
+      {
+        "id": 5,
+        "name": "LinkedIn5",
+        "url": "https://raw.githubusercontent.com/PAX520520/styles/main/LinkedIn_5.png"
+      },
+      {
+        "id": 6,
+        "name": "LinkedIn6",
+        "url": "https://raw.githubusercontent.com/PAX520520/styles/main/LinkedIn_6.png"
+      },
+      {
+        "id": 7,
+        "name": "LinkedIn7",
+        "url": "https://raw.githubusercontent.com/PAX520520/styles/main/LinkedIn_7.png"
+      }
+    ]
+  }
+]
