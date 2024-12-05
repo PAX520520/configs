@@ -235,12 +235,67 @@
             {
                 "id": 9,
                 "name": "Barbie 9",
-                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/barbie 9.jpg"
+                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Barbie 9.jpg"
             },
             {
                 "id": 10,
                 "name": "Barbie 10",
-                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/barbie 10.jpg"
+                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Barbie 10.jpg"
+            }
+        ]
+    },
+    {
+        "group": "Basketball",
+        "styleList": [
+            {
+                "id": 1,
+                "name": "Basketball 1",
+                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Basketball 1.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Basketball 2",
+                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Basketball 2.jpg"
+            },
+            {
+                "id": 3,
+                "name": "Basketball 3",
+                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Basketball 3.jpg"
+            },
+            {
+                "id": 4,
+                "name": "Basketball 4",
+                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Basketball 4.jpg"
+            },
+            {
+                "id": 5,
+                "name": "Basketball 5",
+                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Basketball 5.jpg"
+            },
+            {
+                "id": 6,
+                "name": "Basketball 6",
+                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Basketball 6.jpg"
+            },
+            {
+                "id": 7,
+                "name": "Basketball 7",
+                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Basketball 7.jpg"
+            },
+            {
+                "id": 8,
+                "name": "Basketball 8",
+                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Basketball 8.jpg"
+            },
+            {
+                "id": 9,
+                "name": "Basketball 9",
+                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Basketball 9.jpg"
+            },
+            {
+                "id": 10,
+                "name": "Basketball 10",
+                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Basketball 10.jpg"
             }
         ]
     }
