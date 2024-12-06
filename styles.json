@@ -1,85 +1,5 @@
 [
     {
-        "group": "Cyberpunk",
-        "styleList": [
-            {
-                "id": 1,
-                "name": "Cyberpunk 1",
-                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Cyberpunk 1.jpg"
-            },
-            {
-                "id": 2,
-                "name": "Cyberpunk 2",
-                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Cyberpunk 2.jpg"
-            },
-            {
-                "id": 3,
-                "name": "Cyberpunk 3",
-                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Cyberpunk 3.jpg"
-            },
-            {
-                "id": 4,
-                "name": "Cyberpunk 4",
-                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Cyberpunk 4.jpg"
-            }
-        ]
-    },
-    {
-        "group": "Retro",
-        "styleList": [
-            {
-                "id": 1,
-                "name": "Retro 1",
-                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Retro 1.jpg"
-            },
-            {
-                "id": 2,
-                "name": "Retro 2",
-                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Retro 2.jpg"
-            },
-            {
-                "id": 3,
-                "name": "Retro 3",
-                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Retro 3.jpg"
-            },
-            {
-                "id": 4,
-                "name": "Retro 4",
-                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Retro 4.jpg"
-            },
-            {
-                "id": 5,
-                "name": "Retro 5",
-                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Retro 5.jpg"
-            },
-            {
-                "id": 6,
-                "name": "Retro 6",
-                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Retro 6.jpg"
-            },
-            {
-                "id": 7,
-                "name": "Retro 7",
-                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Retro 7.jpg"
-            },
-            {
-                "id": 8,
-                "name": "Retro 8",
-                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Retro 8.jpg"
-            },
-            {
-                "id": 9,
-                "name": "Retro 9",
-                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Retro 9.jpg"
-            },
-            {
-                "id": 10,
-                "name": "Retro 10",
-                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Retro 10.jpg"
-            }
-        ]
-    },
-    {
         "group": "Travel",
         "styleList": [
             {
@@ -296,6 +216,86 @@
                 "id": 10,
                 "name": "Basketball 10",
                 "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Basketball 10.jpg"
+            }
+        ]
+    },
+    {
+        "group": "Cyberpunk",
+        "styleList": [
+            {
+                "id": 1,
+                "name": "Cyberpunk 1",
+                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Cyberpunk 1.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Cyberpunk 2",
+                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Cyberpunk 2.jpg"
+            },
+            {
+                "id": 3,
+                "name": "Cyberpunk 3",
+                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Cyberpunk 3.jpg"
+            },
+            {
+                "id": 4,
+                "name": "Cyberpunk 4",
+                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Cyberpunk 4.jpg"
+            }
+        ]
+    },
+    {
+        "group": "Retro",
+        "styleList": [
+            {
+                "id": 1,
+                "name": "Retro 1",
+                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Retro 1.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Retro 2",
+                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Retro 2.jpg"
+            },
+            {
+                "id": 3,
+                "name": "Retro 3",
+                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Retro 3.jpg"
+            },
+            {
+                "id": 4,
+                "name": "Retro 4",
+                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Retro 4.jpg"
+            },
+            {
+                "id": 5,
+                "name": "Retro 5",
+                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Retro 5.jpg"
+            },
+            {
+                "id": 6,
+                "name": "Retro 6",
+                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Retro 6.jpg"
+            },
+            {
+                "id": 7,
+                "name": "Retro 7",
+                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Retro 7.jpg"
+            },
+            {
+                "id": 8,
+                "name": "Retro 8",
+                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Retro 8.jpg"
+            },
+            {
+                "id": 9,
+                "name": "Retro 9",
+                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Retro 9.jpg"
+            },
+            {
+                "id": 10,
+                "name": "Retro 10",
+                "url": "https://raw.githubusercontent.com/PAX520520/styles/main/Retro 10.jpg"
             }
         ]
     }
